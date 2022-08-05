@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
+
+
+.header {
+  font-size: 1.5em;
+  font-weight: 800;
+  font-family: "Lato";
+  width: 100%;
+  padding: 15px 0;
+  text-align: center;
+  background-image: url('https://i.ytimg.com/vi/J9JOl9A5qL0/maxresdefault.jpg');
+  background-repeat: no-repeat;
+  color: black;
+}
+
+.instructions {
+  position: absolute;
+  font-family: "Lato";
+  border-radius: 10px;
+  right: 0;
+  top: 170px;
+  width: 500px; 
+  Padding:10px 25px; 
+  margin: 0 30px; 
+  background:#66D3FA;
+}
